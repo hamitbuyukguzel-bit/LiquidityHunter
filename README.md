@@ -26,4 +26,4 @@ Market price is often attracted to areas of high liquidity ("Liquidity Pools") t
 This tool provides **estimations** based on mathematical models, not real-time exchange order book data. It is intended for educational purposes and research into market microstructure.
 
 ---
-*Author: [Hamit Buyukguzel]*
+Author: [Hamit Buyukguzel]
